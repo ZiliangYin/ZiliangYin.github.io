@@ -14,10 +14,6 @@ National Natural Science Foundation of China (2023A1515010761)
 
 - Configured the proposed architecture in four ways: Haar-16, Haar-32, Db2-16, and Db2-32. Their artifact removal performance and hardware performance were analyzed and compared, enabling the selection of optimal configuration for specific applications.
 
-*Digital System Development for Emotion Recognition Based on Long Short-Term Memory (LSTM) Network*, 2022.10-Present
-
-National Natural Science Foundation of China (61974095)
-
 *Simulation Analysis of Transient Thermal Effect of Ground Wire-suspension Clamp System*, 2019.9-2020.6
 
 National Natural Science Foundation of China (51977083)
