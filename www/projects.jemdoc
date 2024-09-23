@@ -1,29 +1,23 @@
 # jemdoc: menu{MENU}{projects.html}
+
 = Projects
 
-== Technology Projects:
+== Reasearch Projects:
 
-*Research for the Interaction Between Large-scale EVs and Power Grids*, 2021.9-2024.7
+*Research on Low-Power Target Recognition AI Edge Chip Design and Hardware Efficiency Optimization*, 2022.10-Present
 
-China Southern Power Grid Technology Fund (090000KK52210132)
+Natural Science Foundation of Guangdong Province, China (2023A1515010761)
 
-- Draft research proposal, feasibility report, technical guidelines and bid document; Analyze the real
-data of different types of EVs and propose a comprehensive planning model; Report regularly at monthly meetings.
+- Draft research proposal, feasibility report, technical guidelines; Algorithm & hardware co-design of a preprocessing module for single-channel EEG; UPF design for SVM & FFT modules.
 
-== Professional Projects:
+*Research on Core Technologies for High-Efficiency, Ultra-Low Power Brain-Computer Interface/Neural Signal Detection Chips*, 2022.11-2023,12
 
-*Guangzhou Power Supply Bureau of the Southern Power Grid*, 2018.6-2018.9
+National Natural Science Foundation of China (61974095)
 
-/Customer Services Center/
+- Design replication; Design of an 1024-point radix-2 FFT; Draft research report; Development and hardware implementation of an LSTM network for emotional recognition using EEG.
 
-- Collected feedback from electricity users in different regions of the power grid and composed a research report.
-- Coordinated with the maintenance department to promptly communicate information about faulty power lines and
-schedule regular maintenance.
+== Relative Skills:
 
-*Shenzhen Power Supply Bureau of Southern Power Grid*, 2022.4-2022.12
+- Programming: Matlab, Python, C++, Verilog
 
-/Shenzhen Electric Power Research Institute/
-
-- Researched the business models of EVs, the spot market in Guangdong Province, and the electricity market clearance policies, and wrote a comprehensive review.
-- Participated in two scientific and technological projects: "Development of Multi-type User Plug-and-Play Smart Interactive Terminals" and "Research and Demonstration of Key Technologies for Large-scale EVs and Grid Interaction". Assisted with conducting research and organizing literature materials.
-- Assisted the department with administrative tasks such as modifying demonstration project architecture diagrams, filling in document information, and collecting data.
+- Language: English, Chinese
