@@ -4,22 +4,32 @@
 
 == Research Experience
 
+*Algorithm and Hardware Development for Single-channel SSVEP-based BCI*, 2024.8-Present
+
+National Natural Science Foundation of China (2023A1515010761)
+
+- Carry out channel selection and stimuli design for an SSVEP-based BCI system (in progress).
+
+- Design a lightweight neural network, combined with digital signal processing methods, that efficiently extracts brain information (in progress).
+
+- Propose a high-performance hardware architecture that implements the feature extraction and classification network (in progress).
+
 *Algorithm and Hardware Development for the Removal of Physiological Artifacts from Single-Channel EEG*, 2023.10-2024.8
 
 National Natural Science Foundation of China (2023A1515010761)
 
-- Developed a lightweight algorithm, WPCT, that removes EOG and EMG artifacts and corrects baseline drift simultaneously from single-channel EEG, which is useful in real-time single-channel BCI signal preprocessing.
+- Developed a lightweight algorithm, WPCT, that removes EOG and EMG artifacts, and corrects baseline drift simultaneously from single-channel EEG, which is useful in real-time single-channel BCI signal preprocessing.
 
 - Proposed an architecture that implements the WPCT algorithm in digital circuits. Significantly reduced the hardware scale with a new area-efficient rotation ordering for two-sided Jacobi SVD calculation of tall matrices.
 
 - Configured the proposed architecture in four ways: Haar-16, Haar-32, Db2-16, and Db2-32. Their artifact removal performance and hardware performance were analyzed and compared, enabling the selection of optimal configuration for specific applications.
 
-*Simulation Analysis of Transient Thermal Effect of Ground Wire-suspension Clamp System*, 2019.9-2020.6
+*Digital System Development for Emotion Recognition Based on Long Short-Term Memory (LSTM) Network*, 2022.10-2023.9
 
-National Natural Science Foundation of China (51977083)
+National Natural Science Foundation of China (61974095)
 
-- Build three-dimensional electromagnetic thermal coupling simulation model of ground wire-suspension clamp system wound by aluminium armour tape.
+- Designed an EEG signal processing system with an application to emotion recognition, which includes three primary modules: preprocessing, feature extraction, and emotion classification.
 
-- Calculated and analyzed the current density distribution and temperature distribution of the ground wire-suspension clamp system under the action of power frequency short-circuit current.
+- Used the energy ratio of different frequency bands as input feature. Trained an LSTM network for dual-label classification of 16 emotions, with an average accuracy of 64.5% on the DEAP dataset.
 
-- Analyzed the effects of different bolt torques on the temperature of heating bottleneck point of the ground wire.
+- Deployed the system using digital circuits. Minimized redundant logic. Adopted piecewise linear approximation for nonlinear operations to reduce complexity.
